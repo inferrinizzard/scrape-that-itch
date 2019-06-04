@@ -1,1 +1,162 @@
-[{"title": "Perennial v0.9", "id": "324504", "desc": "A survival horror game  about being chased by the shadow you see out the corner of your eye.", "author": "Breog\u00e1n Hackett", "genre": "Survival", "platform": ["Windows"]}, {"title": "Spooktective", "id": "412523", "desc": "Investigate a different, cute kind of haunted house with a special magnifying glass.", "author": "Dylza / Luminescence", "genre": "Puzzle", "platform": ["Windows"]}, {"title": "The Future is loading...", "id": "411037", "desc": "A game about an all knowing phone app and soon to be graduates.", "author": "snackpai", "genre": "Interactive Fiction", "platform": ["Windows"]}, {"title": "Contemp", "id": "144534", "desc": "Contemp, a short horror game set in a abandoned house.", "author": "Micaka", "genre": null, "platform": ["Windows"]}, {"title": "The Hunted", "id": "414486", "desc": "An Indie Horror Game", "author": "Dunganga", "genre": null, "platform": ["Windows"]}]
+[
+	{
+		"title": "Anatidaephobia",
+		"id": "422139",
+		"desc": "Face your fear of ducks in this first person \"horror\" game",
+		"author": "Trembjo",
+		"genre": "Survival",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Eat The Rich (Black Friday Simulator)",
+		"id": "411318",
+		"desc": "\"When the people shall have nothing more to eat, they will eat the rich.\"",
+		"author": "Call Of The Void",
+		"genre": "Simulation",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Rot",
+		"id": "430963",
+		"desc": "Rot is a psychological horror story about obsession, rejection and self-hate",
+		"author": "Michael Bonardi",
+		"genre": "Interactive Fiction",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Adam - Lost Memories",
+		"id": "427909",
+		"desc": "A psychological horror game, based on a true story that happened to me when I was a child.",
+		"author": "Adam - Lost Memories",
+		"genre": "Puzzle",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Tall Poppy",
+		"id": "431453",
+		"desc": "A prankster ghost has some fun while spooking any intruders...including you!",
+		"author": "AttainableEnt",
+		"genre": "Puzzle",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Do It For Me",
+		"id": "392919",
+		"desc": "She asks you to do something. Will you do it?",
+		"author": "LixianGames",
+		"genre": "Platformer",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Veiled",
+		"id": "429339",
+		"desc": "Complete the ritual on your path to redemption.",
+		"author": "Regularly Scheduled Programming",
+		"genre": "Adventure",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Dia",
+		"id": "410200",
+		"desc": "Free short horror game",
+		"author": "Vidas Games",
+		"genre": null,
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Heidelberg 1693 Public Demo",
+		"id": "429545",
+		"desc": "Musketeers against Zombies! 2D Sidescroller set in the 17th Century. Reload after every shot!",
+		"author": "Andrade-Games",
+		"genre": "Action",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Cursed Soul Beta",
+		"id": "404684",
+		"desc": "Discover the mysterious murder of a conventional family with your ability to travel to the spectral world.",
+		"author": "Heiklion",
+		"genre": "Survival",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "missed messages.",
+		"id": "415035",
+		"desc": "\u2018goth gf\u2019s iPhone\u2019 airdrops you - accept or decline? A love/horror story about life, death, & memes.",
+		"author": "Angela He",
+		"genre": "Visual Novel",
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Fragments_ (Demo)",
+		"id": "420710",
+		"desc": "A short found-footage first-person horror game. This is currently just a taste of a larger game and idea.",
+		"author": "henryhoare",
+		"genre": null,
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Dead Dreams  - Still Water",
+		"id": "431409",
+		"desc": "A 2D horror game inspired by Silent Hill 2.",
+		"author": "Aiaz Marx",
+		"genre": "Adventure",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "JICE",
+		"id": "426984",
+		"desc": "3D platformer with FPS elements",
+		"author": "ngplus",
+		"genre": "Platformer",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "When The Past Was Around - demo -",
+		"id": "426736",
+		"desc": "A girl falls in love with a beast from the past.",
+		"author": "Mojiken Studio",
+		"genre": "Puzzle",
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Perennial v0.9",
+		"id": "324504",
+		"desc": "A survival horror game  about being chased by the shadow you see out the corner of your eye.",
+		"author": "Breog\u00e1n Hackett",
+		"genre": "Survival",
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Spooktective",
+		"id": "412523",
+		"desc": "Investigate a different, cute kind of haunted house with a special magnifying glass.",
+		"author": "Dylza / Luminescence",
+		"genre": "Puzzle",
+		"platform": ["Windows"]
+	},
+	{
+		"title": "The Future is loading...",
+		"id": "411037",
+		"desc": "A game about an all knowing phone app and soon to be graduates.",
+		"author": "snackpai",
+		"genre": "Interactive Fiction",
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Contemp",
+		"id": "144534",
+		"desc": "Contemp, a short horror game set in a abandoned house.",
+		"author": "Micaka",
+		"genre": null,
+		"platform": ["Windows"]
+	},
+	{
+		"title": "The Hunted",
+		"id": "414486",
+		"desc": "An Indie Horror Game",
+		"author": "Dunganga",
+		"genre": null,
+		"platform": ["Windows"]
+	}
+]
