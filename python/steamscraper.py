@@ -2,7 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-url = "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
+root = "https://store.steampowered.com/app/" 
+gameUrl = "601150/Devil_May_Cry_5/"		 #example
+url = root + gameUrl
 response = requests.get(url, timeout=5)
 soup = BeautifulSoup(response.content, "html.parser")
 
@@ -26,5 +28,5 @@ output.append(
 # print(list(filter(lambda style: "none" not in style, )))
 # print(soup.findAll("a", attrs={"class":"app_tag"}, style=lambda style: style and "none" not in style))
 # print(output);
-with open('test.json', 'w') as outfile:
+with open('output.json', 'w') as outfile:
 	json.dump(output, outfile);
