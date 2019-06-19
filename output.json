@@ -1,1 +1,242 @@
-[{"title": "Backrooms", "id": 431410, "desc": "A horror game, but with full lights on!", "author": "IEP_Esy", "genre": [], "platform": ["Windows"]}, {"title": "Do It For Me", "id": 392919, "desc": "She asks you to do something. Will you do it?", "author": "LixianGames", "genre": [], "platform": ["Windows"]}, {"title": "The Visit", "id": 431787, "desc": null, "author": "NicholasBlay", "genre": [], "platform": ["Windows"]}, {"title": "Hollow Cries", "id": 438868, "desc": "Somtimes you should not talk to the darkness, as it may talk back..", "author": "hannmadestudios", "genre": [], "platform": ["Windows"]}, {"title": "Tall Poppy", "id": 431453, "desc": "A prankster ghost has some fun while spooking any intruders...including you!", "author": "AttainableEnt", "genre": [], "platform": ["Windows"]}, {"title": "SkateBIRD (Demo)", "id": 431116, "desc": "A game about trying your best", "author": "glassbottommeg", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "Anatidaephobia", "id": 422139, "desc": "Face your fear of ducks in this first person \"horror\" game", "author": "Trembjo", "genre": [], "platform": ["Windows"]}, {"title": "Rot", "id": 430963, "desc": "Rot is a psychological horror story about obsession, rejection and self-hate", "author": "Michael Bonardi", "genre": [], "platform": ["Windows"]}, {"title": "Love, Sam", "id": 436333, "desc": "Written with love... and something much worse.", "author": "thomas3", "genre": [], "platform": []}, {"title": "The Things We Lost In The Flood", "id": 397376, "desc": "The world's dampest and least efficient chat room.", "author": "Awkward Silence Games", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "missed messages.", "id": 415035, "desc": "\u2018goth gf\u2019s iPhone\u2019 airdrops you - accept or decline? A love/horror story about life, death, & memes.", "author": "Angela He", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "Bunker Bound", "id": 438283, "desc": null, "author": "guplem", "genre": [], "platform": ["Windows"]}, {"title": "Bird by Example", "id": 410882, "desc": "Deep Learning Bird RPG", "author": "Noah Burkholder", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "No Delivery", "id": 429778, "desc": "An employee training video gone wrong.", "author": "oates", "genre": [], "platform": ["Windows", "macOS"]}, {"title": "When The Past Was Around - demo -", "id": 426736, "desc": "A girl falls in love with a beast from the past.", "author": "Mojiken Studio", "genre": [], "platform": ["Windows", "macOS"]}, {"title": "KIDS", "id": 428139, "desc": "A game of crowds.", "author": "Playables", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "Eat The Rich (Black Friday Simulator)", "id": 411318, "desc": "\"When the people shall have nothing more to eat, they will eat the rich.\"", "author": "Call Of The Void", "genre": [], "platform": ["Windows"]}, {"title": "Contemp", "id": 144534, "desc": "Contemp, a short horror game set in a abandoned house.", "author": "Micaka", "genre": [], "platform": ["Windows"]}, {"title": "Seeds of Love", "id": 432102, "desc": "A sapphic farming-themed rhythm game/visual novel!", "author": "Seeds of Love", "genre": [], "platform": ["Windows", "macOS"]}, {"title": "Siren Head", "id": 322148, "desc": null, "author": "Modus Interactive", "genre": [], "platform": ["Windows", "macOS"]}, {"title": "Lyssophobia", "id": 436107, "desc": "The less you know the better.", "author": "Andrea Pignataro", "genre": [], "platform": ["Windows"]}, {"title": "Lasagna Boy", "id": 350932, "desc": null, "author": "Trashy Rascal Studios", "genre": [], "platform": ["Windows"]}, {"title": "Dead Dreams  - Still Water", "id": 431409, "desc": "2D Horror inspired by Silent Hill P.T.", "author": "Aiaz Marx", "genre": [], "platform": ["Windows"]}, {"title": "Fragments_ (Demo)", "id": 420710, "desc": "A short found-footage first-person horror game. This is currently just a taste of a larger game and idea.", "author": "henryhoare", "genre": [], "platform": ["Windows"]}, {"title": "Dissolving", "id": 435812, "desc": "BELIEVE IN THE NET", "author": "Flying Whale", "genre": [], "platform": ["Windows"]}, {"title": "(Old) The Parallel Chronicles E1 Alpha", "id": 73101, "desc": "The Parallel (Old Alpha)", "author": "EyeBladeStudios", "genre": [], "platform": ["Windows"]}, {"title": "Onirism", "id": 196758, "desc": "You like great old school adventure titles like Spyro or Zelda? So you'll like Onirism, a tribute to all these classics!", "author": "onirism", "genre": [], "platform": []}, {"title": "Peoplemon", "id": 437700, "desc": "Catch PEOPLE and make 'em fight!", "author": "Alex Stuart", "genre": [], "platform": ["Windows", "Linux", "macOS"]}, {"title": "One Thousand and One Days", "id": 365936, "desc": "You have 1001 days, use them wisely.", "author": "Asif G.", "genre": [], "platform": ["Windows", "macOS"]}, {"title": "1915", "id": 425921, "desc": "Uncover the Stories of The Battle of Loos", "author": "GregorSD", "genre": [], "platform": ["Windows"]}]
+[
+	{
+		"title": "(Old) The Parallel Chronicles E1 Alpha",
+		"id": 73101,
+		"desc": "The Parallel (Old Alpha)",
+		"author": "EyeBladeStudios",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Contemp",
+		"id": 144534,
+		"desc": "Contemp, a short horror game set in a abandoned house.",
+		"author": "Micaka",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Onirism",
+		"id": 196758,
+		"desc": "You like great old school adventure titles like Spyro or Zelda? So you'll like Onirism, a tribute to all these classics!",
+		"author": "onirism",
+		"genre": [],
+		"platform": []
+	},
+	{
+		"title": "Siren Head",
+		"id": 322148,
+		"desc": null,
+		"author": "Modus Interactive",
+		"genre": [],
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Lasagna Boy",
+		"id": 350932,
+		"desc": null,
+		"author": "Trashy Rascal Studios",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "One Thousand and One Days",
+		"id": 365936,
+		"desc": "You have 1001 days, use them wisely.",
+		"author": "Asif G.",
+		"genre": [],
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Do It For Me",
+		"id": 392919,
+		"desc": "She asks you to do something. Will you do it?",
+		"author": "LixianGames",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "The Things We Lost In The Flood",
+		"id": 397376,
+		"desc": "The world's dampest and least efficient chat room.",
+		"author": "Awkward Silence Games",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Bird by Example",
+		"id": 410882,
+		"desc": "Deep Learning Bird RPG",
+		"author": "Noah Burkholder",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Eat The Rich (Black Friday Simulator)",
+		"id": 411318,
+		"desc": "\"When the people shall have nothing more to eat, they will eat the rich.\"",
+		"author": "Call Of The Void",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "missed messages.",
+		"id": 415035,
+		"desc": "\u2018goth gf\u2019s iPhone\u2019 airdrops you - accept or decline? A love/horror story about life, death, & memes.",
+		"author": "Angela He",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Fragments_ (Demo)",
+		"id": 420710,
+		"desc": "A short found-footage first-person horror game. This is currently just a taste of a larger game and idea.",
+		"author": "henryhoare",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Anatidaephobia",
+		"id": 422139,
+		"desc": "Face your fear of ducks in this first person \"horror\" game",
+		"author": "Trembjo",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "1915",
+		"id": 425921,
+		"desc": "Uncover the Stories of The Battle of Loos",
+		"author": "GregorSD",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "When The Past Was Around - demo -",
+		"id": 426736,
+		"desc": "A girl falls in love with a beast from the past.",
+		"author": "Mojiken Studio",
+		"genre": [],
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "KIDS",
+		"id": 428139,
+		"desc": "A game of crowds.",
+		"author": "Playables",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "No Delivery",
+		"id": 429778,
+		"desc": "An employee training video gone wrong.",
+		"author": "oates",
+		"genre": [],
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Rot",
+		"id": 430963,
+		"desc": "Rot is a psychological horror story about obsession, rejection and self-hate",
+		"author": "Michael Bonardi",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "SkateBIRD (Demo)",
+		"id": 431116,
+		"desc": "A game about trying your best",
+		"author": "glassbottommeg",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Dead Dreams  - Still Water",
+		"id": 431409,
+		"desc": "2D Horror inspired by Silent Hill P.T.",
+		"author": "Aiaz Marx",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Backrooms",
+		"id": 431410,
+		"desc": "A horror game, but with full lights on!",
+		"author": "IEP_Esy",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Tall Poppy",
+		"id": 431453,
+		"desc": "A prankster ghost has some fun while spooking any intruders...including you!",
+		"author": "AttainableEnt",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "The Visit",
+		"id": 431787,
+		"desc": null,
+		"author": "NicholasBlay",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Seeds of Love",
+		"id": 432102,
+		"desc": "A sapphic farming-themed rhythm game/visual novel!",
+		"author": "Seeds of Love",
+		"genre": [],
+		"platform": ["Windows", "macOS"]
+	},
+	{
+		"title": "Dissolving",
+		"id": 435812,
+		"desc": "BELIEVE IN THE NET",
+		"author": "Flying Whale",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Lyssophobia",
+		"id": 436107,
+		"desc": "The less you know the better.",
+		"author": "Andrea Pignataro",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Love, Sam",
+		"id": 436333,
+		"desc": "Written with love... and something much worse.",
+		"author": "thomas3",
+		"genre": [],
+		"platform": []
+	},
+	{
+		"title": "Peoplemon",
+		"id": 437700,
+		"desc": "Catch PEOPLE and make 'em fight!",
+		"author": "Alex Stuart",
+		"genre": [],
+		"platform": ["Windows", "Linux", "macOS"]
+	},
+	{
+		"title": "Bunker Bound",
+		"id": 438283,
+		"desc": null,
+		"author": "guplem",
+		"genre": [],
+		"platform": ["Windows"]
+	},
+	{
+		"title": "Hollow Cries",
+		"id": 438868,
+		"desc": "Somtimes you should not talk to the darkness, as it may talk back..",
+		"author": "hannmadestudios",
+		"genre": [],
+		"platform": ["Windows"]
+	}
+]

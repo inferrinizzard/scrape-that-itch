@@ -5,6 +5,32 @@ import json
 import locale
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
+def insertSort(list: list, append: list):
+    for i in append:
+        index = 0
+        if(len(list) > 0):
+            while list[index]["id"] < i["id"]:
+                index = index + 1
+                if(index >= len(list)):
+                    break
+            list.insert(index, i)
+        else:
+            list.append(i)
+
+
+def binSearch(list: list, l: int, r: int, val: int) -> int:
+    if r >= l:
+        m = l + int((r - l)/2)
+        if list[m]["id"] == val:
+            return m
+        elif list[m]["id"] > val:
+            return binSearch(list, l, m-1, val)
+        else:
+            return binSearch(list, m + 1, r, val)
+    else:
+        return -1
+
+
 rootUrl = "https://itch.io/games"
 tagPageUrl = "/tags"
 pageUrl = "?page="
@@ -33,42 +59,21 @@ response = requests.get(url, timeout=5)
 soup = BeautifulSoup(response.content, "html.parser")
 
 output = []
-
+append = []
 for game in soup.findAll(attrs={"class": "game_cell"}):
-    output.append(
+    append.append(
         {
             "title": game.find(attrs={"class": "game_title"}).find(attrs={"class": "title"}).string if game.find(attrs={"class": "game_title"}) is not None else None,
             "id": int(game.get("data-game_id")) if game.get("data-game_id") is not None else None,
             "desc": game.find(attrs={"class": "game_text"}).text if game.find(attrs={"class": "game_text"}) is not None else None,
             "author": game.find(attrs={"class": "game_author"}).string if game.find(attrs={"class": "game_author"}) is not None else None,
             "genre": [],
-            "platform": [l.get("title")[13:] for l in [p.findAll("span")
-                                                       for p in game.findAll(attrs={"class": "game_platform"})] for l in l]
+            "platform": list(filter(None.__ne__, [*[l.get("title")[13:] for l in [p.findAll("span")
+                                                                                  for p in game.findAll(attrs={"class": "game_platform"})] for l in l], "Browser" if game.find(attrs={"class": "web_flag"}) is not None else None]))
         }
     )
 
-
-def insertSort(list: list, append: list):
-    for i in append:
-        index = 0
-        while list[index]["id"] < i["id"]:
-            index = index + 1
-        else:
-            list.insert(index, i)
-
-
-def binSearch(list: list, l: int, r: int, val: int) -> int:
-    if r >= l:
-        m = l + int((r - l)/2)
-        if list[m]["id"] == val:
-            return m
-        elif list[m]["id"] > val:
-            return binSearch(list, l, m-1, val)
-        else:
-            return binSearch(list, m + 1, r, val)
-    else:
-        return -1
-
+insertSort(output, append)  # sort as chunk or individual?
 
 with open('output.json', 'w') as outfile:
     json.dump(output, outfile)
