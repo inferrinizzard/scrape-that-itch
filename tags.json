@@ -1,0 +1,897 @@
+[
+	{ "tag": "2d", "tagUrl": "/games/tag-2d", "count": 36159, "pageCount": 1206 },
+	{
+		"tag": "pixel-art",
+		"tagUrl": "/games/tag-pixel-art",
+		"count": 17051,
+		"pageCount": 569
+	},
+	{
+		"tag": "adventure",
+		"tagUrl": "/games/genre-adventure",
+		"count": 18955,
+		"pageCount": 632
+	},
+	{
+		"tag": "singleplayer",
+		"tagUrl": "/games/tag-singleplayer",
+		"count": 14917,
+		"pageCount": 498
+	},
+	{
+		"tag": "horror",
+		"tagUrl": "/games/tag-horror",
+		"count": 5431,
+		"pageCount": 182
+	},
+	{
+		"tag": "platformer",
+		"tagUrl": "/games/genre-platformer",
+		"count": 24459,
+		"pageCount": 816
+	},
+	{ "tag": "3d", "tagUrl": "/games/tag-3d", "count": 13100, "pageCount": 437 },
+	{
+		"tag": "visual-novel",
+		"tagUrl": "/games/genre-visual-novel",
+		"count": 4851,
+		"pageCount": 162
+	},
+	{
+		"tag": "rpg",
+		"tagUrl": "/games/genre-rpg",
+		"count": 7669,
+		"pageCount": 256
+	},
+	{
+		"tag": "action",
+		"tagUrl": "/games/genre-action",
+		"count": 31589,
+		"pageCount": 1053
+	},
+	{
+		"tag": "puzzle",
+		"tagUrl": "/games/genre-puzzle",
+		"count": 19760,
+		"pageCount": 659
+	},
+	{
+		"tag": "unity",
+		"tagUrl": "/games/tag-unity",
+		"count": 10240,
+		"pageCount": 342
+	},
+	{
+		"tag": "retro",
+		"tagUrl": "/games/tag-retro",
+		"count": 7380,
+		"pageCount": 247
+	},
+	{
+		"tag": "simulation",
+		"tagUrl": "/games/genre-simulation",
+		"count": 9709,
+		"pageCount": 324
+	},
+	{
+		"tag": "fantasy",
+		"tagUrl": "/games/tag-fantasy",
+		"count": 4090,
+		"pageCount": 137
+	},
+	{
+		"tag": "psychological-horror",
+		"tagUrl": "/games/tag-psychological-horror",
+		"count": 75,
+		"pageCount": 3
+	},
+	{
+		"tag": "short",
+		"tagUrl": "/games/tag-short",
+		"count": 6578,
+		"pageCount": 220
+	},
+	{
+		"tag": "interactive-fiction",
+		"tagUrl": "/games/tag-interactive-fiction",
+		"count": 4664,
+		"pageCount": 156
+	},
+	{
+		"tag": "shooter",
+		"tagUrl": "/games/genre-shooter",
+		"count": 16498,
+		"pageCount": 550
+	},
+	{
+		"tag": "arcade",
+		"tagUrl": "/games/tag-arcade",
+		"count": 13238,
+		"pageCount": 442
+	},
+	{
+		"tag": "survival",
+		"tagUrl": "/games/tag-survival",
+		"count": 5692,
+		"pageCount": 190
+	},
+	{
+		"tag": "story-rich",
+		"tagUrl": "/games/tag-story-rich",
+		"count": 3126,
+		"pageCount": 105
+	},
+	{
+		"tag": "atmospheric",
+		"tagUrl": "/games/tag-atmospheric",
+		"count": 3662,
+		"pageCount": 123
+	},
+	{
+		"tag": "romance",
+		"tagUrl": "/games/tag-romance",
+		"count": 1266,
+		"pageCount": 43
+	},
+	{
+		"tag": "cute",
+		"tagUrl": "/games/tag-cute",
+		"count": 4099,
+		"pageCount": 137
+	},
+	{
+		"tag": "casual",
+		"tagUrl": "/games/tag-casual",
+		"count": 7477,
+		"pageCount": 250
+	},
+	{
+		"tag": "female-protagonist",
+		"tagUrl": "/games/tag-female-protagonist",
+		"count": 1901,
+		"pageCount": 64
+	},
+	{
+		"tag": "8-bit",
+		"tagUrl": "/games/tag-8-bit",
+		"count": 5115,
+		"pageCount": 171
+	},
+	{
+		"tag": "first-person",
+		"tagUrl": "/games/tag-first-person",
+		"count": 3802,
+		"pageCount": 127
+	},
+	{
+		"tag": "exploration",
+		"tagUrl": "/games/tag-exploration",
+		"count": 3431,
+		"pageCount": 115
+	},
+	{
+		"tag": "16-bit",
+		"tagUrl": "/games/tag-16-bit",
+		"count": 3718,
+		"pageCount": 124
+	},
+	{
+		"tag": "strategy",
+		"tagUrl": "/games/genre-strategy",
+		"count": 7447,
+		"pageCount": 249
+	},
+	{
+		"tag": "science-fiction",
+		"tagUrl": "/games/tag-science-fiction",
+		"count": 3296,
+		"pageCount": 110
+	},
+	{
+		"tag": "lgbt",
+		"tagUrl": "/games/tag-lgbt",
+		"count": 1142,
+		"pageCount": 39
+	},
+	{
+		"tag": "anime",
+		"tagUrl": "/games/tag-anime",
+		"count": 1448,
+		"pageCount": 49
+	},
+	{
+		"tag": "funny",
+		"tagUrl": "/games/tag-funny",
+		"count": 4593,
+		"pageCount": 154
+	},
+	{
+		"tag": "space",
+		"tagUrl": "/games/tag-space",
+		"count": 6988,
+		"pageCount": 233
+	},
+	{
+		"tag": "mystery",
+		"tagUrl": "/games/tag-mystery",
+		"count": 1842,
+		"pageCount": 62
+	},
+	{
+		"tag": "artgame",
+		"tagUrl": "/games/tag-artgame",
+		"count": 2851,
+		"pageCount": 96
+	},
+	{
+		"tag": "gamemaker",
+		"tagUrl": "/games/tag-gamemaker",
+		"count": 3422,
+		"pageCount": 115
+	},
+	{
+		"tag": "virtual-reality",
+		"tagUrl": "/games/tag-virtual-reality",
+		"count": 1813,
+		"pageCount": 61
+	},
+	{
+		"tag": "turn-based",
+		"tagUrl": "/games/tag-turn-based",
+		"count": 1318,
+		"pageCount": 44
+	},
+	{
+		"tag": "racing",
+		"tagUrl": "/games/tag-racing",
+		"count": 2462,
+		"pageCount": 83
+	},
+	{
+		"tag": "endless",
+		"tagUrl": "/games/tag-endless",
+		"count": 3439,
+		"pageCount": 115
+	},
+	{ "tag": "yaoi", "tagUrl": "/games/tag-yaoi", "count": 70, "pageCount": 3 },
+	{
+		"tag": "magic",
+		"tagUrl": "/games/tag-magic",
+		"count": 1212,
+		"pageCount": 41
+	},
+	{
+		"tag": "metroidvania",
+		"tagUrl": "/games/tag-metroidvania",
+		"count": 731,
+		"pageCount": 25
+	},
+	{
+		"tag": "controller",
+		"tagUrl": "/games/tag-controller",
+		"count": 1508,
+		"pageCount": 51
+	},
+	{
+		"tag": "3d-platformer",
+		"tagUrl": "/games/tag-3d-platformer",
+		"count": 2488,
+		"pageCount": 83
+	},
+	{
+		"tag": "educational",
+		"tagUrl": "/games/tag-educational",
+		"count": 2560,
+		"pageCount": 86
+	},
+	{
+		"tag": "spooky",
+		"tagUrl": "/games/tag-spooky",
+		"count": 963,
+		"pageCount": 33
+	},
+	{
+		"tag": "cyberpunk",
+		"tagUrl": "/games/tag-cyberpunk",
+		"count": 995,
+		"pageCount": 34
+	},
+	{
+		"tag": "pico-8",
+		"tagUrl": "/games/tag-pico-8",
+		"count": 1387,
+		"pageCount": 47
+	},
+	{
+		"tag": "otome",
+		"tagUrl": "/games/tag-otome",
+		"count": 388,
+		"pageCount": 13
+	},
+	{
+		"tag": "sports",
+		"tagUrl": "/games/genre-sports",
+		"count": 2349,
+		"pageCount": 79
+	},
+	{
+		"tag": "co-op",
+		"tagUrl": "/games/tag-co-op",
+		"count": 1345,
+		"pageCount": 45
+	},
+	{
+		"tag": "mouse-only",
+		"tagUrl": "/games/tag-mouse-only",
+		"count": 1677,
+		"pageCount": 56
+	},
+	{ "tag": "fps", "tagUrl": "/games/tag-fps", "count": 1870, "pageCount": 63 },
+	{
+		"tag": "card-game",
+		"tagUrl": "/games/tag-card-game",
+		"count": 1130,
+		"pageCount": 38
+	},
+	{
+		"tag": "hand-drawn",
+		"tagUrl": "/games/tag-hand-drawn",
+		"count": 1045,
+		"pageCount": 35
+	},
+	{
+		"tag": "medieval",
+		"tagUrl": "/games/tag-medieval",
+		"count": 843,
+		"pageCount": 29
+	},
+	{
+		"tag": "jumping",
+		"tagUrl": "/games/tag-jumping",
+		"count": 1910,
+		"pageCount": 64
+	},
+	{
+		"tag": "bullet-hell",
+		"tagUrl": "/games/tag-bullet-hell",
+		"count": 1778,
+		"pageCount": 60
+	},
+	{
+		"tag": "zombies",
+		"tagUrl": "/games/tag-zombies",
+		"count": 1838,
+		"pageCount": 62
+	},
+	{
+		"tag": "tilemap",
+		"tagUrl": "/game-assets/tag-tilemap",
+		"count": 253,
+		"pageCount": 9
+	},
+	{
+		"tag": "twine",
+		"tagUrl": "/games/tag-twine",
+		"count": 2201,
+		"pageCount": 74
+	},
+	{
+		"tag": "third-person",
+		"tagUrl": "/games/tag-third-person",
+		"count": 1015,
+		"pageCount": 34
+	},
+	{
+		"tag": "local-co-op",
+		"tagUrl": "/games/tag-local-co-op",
+		"count": 987,
+		"pageCount": 33
+	},
+	{
+		"tag": "black-and-white",
+		"tagUrl": "/games/tag-black-and-white",
+		"count": 902,
+		"pageCount": 31
+	},
+	{
+		"tag": "non-violent",
+		"tagUrl": "/games/tag-non-violent",
+		"count": 976,
+		"pageCount": 33
+	},
+	{
+		"tag": "sandbox",
+		"tagUrl": "/games/tag-sandbox",
+		"count": 766,
+		"pageCount": 26
+	},
+	{ "tag": "gay", "tagUrl": "/games/tag-gay", "count": 196, "pageCount": 7 },
+	{
+		"tag": "isometric",
+		"tagUrl": "/games/tag-isometric",
+		"count": 838,
+		"pageCount": 28
+	},
+	{
+		"tag": "abstract",
+		"tagUrl": "/games/tag-abstract",
+		"count": 3169,
+		"pageCount": 106
+	},
+	{ "tag": "jrpg", "tagUrl": "/games/tag-jrpg", "count": 733, "pageCount": 25 },
+	{
+		"tag": "life-simulation",
+		"tagUrl": "/games/tag-life-simulation",
+		"count": 740,
+		"pageCount": 25
+	},
+	{
+		"tag": "bitsy",
+		"tagUrl": "/games/tag-bitsy",
+		"count": 1681,
+		"pageCount": 57
+	},
+	{
+		"tag": "aliens",
+		"tagUrl": "/games/tag-aliens",
+		"count": 1620,
+		"pageCount": 55
+	},
+	{
+		"tag": "tower-defense",
+		"tagUrl": "/games/tag-tower-defense",
+		"count": 1482,
+		"pageCount": 50
+	},
+	{
+		"tag": "dark-humor",
+		"tagUrl": "/games/tag-dark-humor",
+		"count": 709,
+		"pageCount": 24
+	},
+	{
+		"tag": "nature",
+		"tagUrl": "/games/tag-nature",
+		"count": 472,
+		"pageCount": 16
+	},
+	{
+		"tag": "turn-based-strategy",
+		"tagUrl": "/games/tag-turn-based-strategy",
+		"count": 810,
+		"pageCount": 28
+	},
+	{
+		"tag": "twin-stick-shooter",
+		"tagUrl": "/games/tag-twin-stick-shooter",
+		"count": 791,
+		"pageCount": 27
+	},
+	{
+		"tag": "my-first-game-jam",
+		"tagUrl": "/games/tag-my-first-game-jam",
+		"count": 1233,
+		"pageCount": 42
+	},
+	{
+		"tag": "parody",
+		"tagUrl": "/games/tag-parody",
+		"count": 691,
+		"pageCount": 24
+	},
+	{
+		"tag": "voxel",
+		"tagUrl": "/games/tag-voxel",
+		"count": 724,
+		"pageCount": 25
+	},
+	{
+		"tag": "love2d",
+		"tagUrl": "/games/tag-love2d",
+		"count": 990,
+		"pageCount": 34
+	},
+	{
+		"tag": "relationship",
+		"tagUrl": "/games/tag-relationship",
+		"count": 222,
+		"pageCount": 8
+	},
+	{
+		"tag": "halloween",
+		"tagUrl": "/games/tag-halloween",
+		"count": 823,
+		"pageCount": 28
+	},
+	{ "tag": "zine", "tagUrl": "/games/tag-zine", "count": 39, "pageCount": 2 },
+	{
+		"tag": "global-game-jam",
+		"tagUrl": "/games/tag-global-game-jam",
+		"count": 1916,
+		"pageCount": 64
+	},
+	{
+		"tag": "gbjam",
+		"tagUrl": "/games/tag-gbjam",
+		"count": 461,
+		"pageCount": 16
+	},
+	{
+		"tag": "maze",
+		"tagUrl": "/games/tag-maze",
+		"count": 1180,
+		"pageCount": 40
+	},
+	{
+		"tag": "hack-and-slash",
+		"tagUrl": "/games/tag-hack-and-slash",
+		"count": 585,
+		"pageCount": 20
+	},
+	{
+		"tag": "high-score",
+		"tagUrl": "/games/tag-high-score",
+		"count": 1019,
+		"pageCount": 34
+	},
+	{
+		"tag": "character-customization",
+		"tagUrl": "/games/tag-character-customization",
+		"count": 354,
+		"pageCount": 12
+	},
+	{
+		"tag": "lo-fi",
+		"tagUrl": "/games/tag-lo-fi",
+		"count": 525,
+		"pageCount": 18
+	},
+	{
+		"tag": "fangame",
+		"tagUrl": "/games/tag-fangame",
+		"count": 510,
+		"pageCount": 18
+	},
+	{
+		"tag": "infinite-runner",
+		"tagUrl": "/games/tag-infinite-runner",
+		"count": 1564,
+		"pageCount": 53
+	},
+	{
+		"tag": "user-interface",
+		"tagUrl": "/game-assets/tag-user-interface",
+		"count": 126,
+		"pageCount": 5
+	},
+	{
+		"tag": "one-button",
+		"tagUrl": "/games/tag-one-button",
+		"count": 956,
+		"pageCount": 32
+	},
+	{
+		"tag": "level-editor",
+		"tagUrl": "/tools/tag-level-editor",
+		"count": 65,
+		"pageCount": 3
+	},
+	{
+		"tag": "crafting",
+		"tagUrl": "/games/tag-crafting",
+		"count": 472,
+		"pageCount": 16
+	},
+	{
+		"tag": "crime",
+		"tagUrl": "/games/tag-crime",
+		"count": 301,
+		"pageCount": 11
+	},
+	{
+		"tag": "clicker",
+		"tagUrl": "/games/tag-clicker",
+		"count": 1130,
+		"pageCount": 38
+	},
+	{
+		"tag": "forest",
+		"tagUrl": "/games/tag-forest",
+		"count": 272,
+		"pageCount": 10
+	},
+	{
+		"tag": "driving",
+		"tagUrl": "/games/tag-driving",
+		"count": 629,
+		"pageCount": 21
+	},
+	{
+		"tag": "altgame",
+		"tagUrl": "/games/tag-altgame",
+		"count": 370,
+		"pageCount": 13
+	},
+	{
+		"tag": "party-game",
+		"tagUrl": "/games/tag-party-game",
+		"count": 693,
+		"pageCount": 24
+	},
+	{ "tag": "neon", "tagUrl": "/games/tag-neon", "count": 649, "pageCount": 22 },
+	{ "tag": "gore", "tagUrl": "/games/tag-gore", "count": 382, "pageCount": 13 },
+	{
+		"tag": "versus",
+		"tagUrl": "/games/tag-versus",
+		"count": 689,
+		"pageCount": 23
+	},
+	{
+		"tag": "tactical",
+		"tagUrl": "/games/tag-tactical",
+		"count": 635,
+		"pageCount": 22
+	},
+	{
+		"tag": "suspense",
+		"tagUrl": "/games/tag-suspense",
+		"count": 401,
+		"pageCount": 14
+	},
+	{
+		"tag": "city-builder",
+		"tagUrl": "/games/tag-city-builder",
+		"count": 406,
+		"pageCount": 14
+	},
+	{
+		"tag": "ludum-dare-41",
+		"tagUrl": "/games/tag-ludum-dare-41",
+		"count": 1712,
+		"pageCount": 58
+	},
+	{
+		"tag": "dystopian",
+		"tagUrl": "/games/tag-dystopian",
+		"count": 418,
+		"pageCount": 14
+	},
+	{
+		"tag": "tycoon",
+		"tagUrl": "/games/tag-tycoon",
+		"count": 181,
+		"pageCount": 7
+	},
+	{
+		"tag": "construct-2",
+		"tagUrl": "/games/tag-construct-2",
+		"count": 698,
+		"pageCount": 24
+	},
+	{
+		"tag": "tactical-rpg",
+		"tagUrl": "/games/tag-tactical-rpg",
+		"count": 246,
+		"pageCount": 9
+	},
+	{
+		"tag": "fonts",
+		"tagUrl": "/game-assets/tag-fonts",
+		"count": 154,
+		"pageCount": 6
+	},
+	{
+		"tag": "ludum-dare-42",
+		"tagUrl": "/games/tag-ludum-dare-42",
+		"count": 1873,
+		"pageCount": 63
+	},
+	{
+		"tag": "score-attack",
+		"tagUrl": "/games/tag-score-attack",
+		"count": 798,
+		"pageCount": 27
+	},
+	{
+		"tag": "ascii",
+		"tagUrl": "/games/tag-ascii",
+		"count": 290,
+		"pageCount": 10
+	},
+	{
+		"tag": "gardening",
+		"tagUrl": "/games/tag-gardening",
+		"count": 137,
+		"pageCount": 5
+	},
+	{ "tag": "dice", "tagUrl": "/games/tag-dice", "count": 117, "pageCount": 4 },
+	{
+		"tag": "generator",
+		"tagUrl": "/games/tag-generator",
+		"count": 195,
+		"pageCount": 7
+	},
+	{
+		"tag": "creative",
+		"tagUrl": "/games/tag-creative",
+		"count": 181,
+		"pageCount": 7
+	},
+	{
+		"tag": "touch-friendly",
+		"tagUrl": "/games/tag-touch-friendly",
+		"count": 673,
+		"pageCount": 23
+	},
+	{
+		"tag": "puzzlescript",
+		"tagUrl": "/games/tag-puzzlescript",
+		"count": 545,
+		"pageCount": 19
+	},
+	{
+		"tag": "oculus-rift",
+		"tagUrl": "/games/tag-oculus-rift",
+		"count": 454,
+		"pageCount": 16
+	},
+	{
+		"tag": "cult-classic",
+		"tagUrl": "/games/tag-cult-classic",
+		"count": 341,
+		"pageCount": 12
+	},
+	{
+		"tag": "lowrezjam",
+		"tagUrl": "/games/tag-lowrezjam",
+		"count": 685,
+		"pageCount": 23
+	},
+	{
+		"tag": "ludum-dare-43",
+		"tagUrl": "/games/tag-ludum-dare-43",
+		"count": 1516,
+		"pageCount": 51
+	},
+	{
+		"tag": "vector",
+		"tagUrl": "/games/tag-vector",
+		"count": 410,
+		"pageCount": 14
+	},
+	{
+		"tag": "rt-book",
+		"tagUrl": "/misc/tag-art-book",
+		"count": 56,
+		"pageCount": 2
+	},
+	{ "tag": "food", "tagUrl": "/games/tag-food", "count": 344, "pageCount": 12 },
+	{
+		"tag": "remake",
+		"tagUrl": "/games/tag-remake",
+		"count": 450,
+		"pageCount": 16
+	},
+	{
+		"tag": "gothic",
+		"tagUrl": "/games/tag-gothic",
+		"count": 163,
+		"pageCount": 6
+	},
+	{
+		"tag": "time-attack",
+		"tagUrl": "/games/tag-time-attack",
+		"count": 572,
+		"pageCount": 20
+	},
+	{ "tag": "frog", "tagUrl": "/games/tag-frog", "count": 202, "pageCount": 7 },
+	{
+		"tag": "trashcore",
+		"tagUrl": "/games/tag-trashcore",
+		"count": 23,
+		"pageCount": 1
+	},
+	{
+		"tag": "western",
+		"tagUrl": "/games/tag-western",
+		"count": 353,
+		"pageCount": 12
+	},
+	{
+		"tag": "alternate-history",
+		"tagUrl": "/games/tag-alternate-history",
+		"count": 389,
+		"pageCount": 13
+	},
+	{
+		"tag": "underwater",
+		"tagUrl": "/games/tag-underwater",
+		"count": 417,
+		"pageCount": 14
+	},
+	{
+		"tag": "split-screen",
+		"tagUrl": "/games/tag-split-screen",
+		"count": 317,
+		"pageCount": 11
+	},
+	{
+		"tag": "swords",
+		"tagUrl": "/games/tag-swords",
+		"count": 241,
+		"pageCount": 9
+	},
+	{
+		"tag": "non-linear",
+		"tagUrl": "/games/tag-non-linear",
+		"count": 177,
+		"pageCount": 6
+	},
+	{
+		"tag": "superhero",
+		"tagUrl": "/games/tag-superhero",
+		"count": 232,
+		"pageCount": 8
+	},
+	{
+		"tag": "ludum-dare-37",
+		"tagUrl": "/games/tag-ludum-dare-37",
+		"count": 1003,
+		"pageCount": 34
+	},
+	{
+		"tag": "skeletons",
+		"tagUrl": "/games/tag-skeletons",
+		"count": 228,
+		"pageCount": 8
+	},
+	{
+		"tag": "one-hit-kill",
+		"tagUrl": "/games/tag-one-hit-kill",
+		"count": 389,
+		"pageCount": 13
+	},
+	{
+		"tag": "time-travel",
+		"tagUrl": "/games/tag-time-travel",
+		"count": 373,
+		"pageCount": 13
+	},
+	{
+		"tag": "economy",
+		"tagUrl": "/games/tag-economy",
+		"count": 277,
+		"pageCount": 10
+	},
+	{
+		"tag": "flat-shading",
+		"tagUrl": "/games/tag-flat-shading",
+		"count": 182,
+		"pageCount": 7
+	},
+	{
+		"tag": "mmorpg",
+		"tagUrl": "/games/tag-mmorpg",
+		"count": 165,
+		"pageCount": 6
+	},
+	{ "tag": "dogs", "tagUrl": "/games/tag-dogs", "count": 540, "pageCount": 19 },
+	{
+		"tag": "tanks",
+		"tagUrl": "/games/tag-tanks",
+		"count": 467,
+		"pageCount": 16
+	},
+	{
+		"tag": "ludum-dare-39",
+		"tagUrl": "/games/tag-ludum-dare-39",
+		"count": 1203,
+		"pageCount": 41
+	},
+	{
+		"tag": "perma-death",
+		"tagUrl": "/games/tag-perma-death",
+		"count": 356,
+		"pageCount": 12
+	}
+]
