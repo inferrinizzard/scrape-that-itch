@@ -72,31 +72,42 @@ with open('tags.json', 'r') as tagsIn:
         urlByTag.append({"tag": tag["tag"], "urls": urls})
 
 
-# for tag in urlByTag:
-#     output = []
-
-#     for url in tag["urls"]:
-#         response = requests.get(url, timeout=5)
-#         soup = BeautifulSoup(response.content, "html.parser")
-
-#         append = []
-#         for game in soup.findAll(attrs={"class": "game_cell"}):
-#             append.append(
-#                 {
-#                     "title": game.find(attrs={"class": "game_title"}).find(attrs={"class": "title"}).string if game.find(attrs={"class": "game_title"}) is not None else None,
-#                     "id": int(game.get("data-game_id")) if game.get("data-game_id") is not None else None,
-#                     "desc": game.find(attrs={"class": "game_text"}).text if game.find(attrs={"class": "game_text"}) is not None else None,
-#                     "author": game.find(attrs={"class": "game_author"}).string if game.find(attrs={"class": "game_author"}) is not None else None,
-#                     "genre": [],
-#                     "platform": ([(platform.get("title")[13:] if platform.has_attr("title") else "Browser") for platform in game.find(attrs={"class": "game_platform"}).findAll("span")] if game.find(attrs={"class": "game_platform"}) is not None else [])
-#                 }
-#             )
-#         # print(append)
-
-#         insertSort(output, append)  # sort as chunk or individual?
-
-#     with open(tag["tag"] + '.json', 'w') as outfile:
-#         json.dump(output, outfile)
-
 for tag in urlByTag:
-    with open(tag["tag"] + '.json', 'r') as infile:
+    output = []
+
+    for url in tag["urls"]:
+        response = requests.get(url, timeout=5)
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        append = []
+        for game in soup.findAll(attrs={"class": "game_cell"}):
+            append.append(
+                {
+                    "title": game.find(attrs={"class": "game_title"}).find(attrs={"class": "title"}).string if game.find(attrs={"class": "game_title"}) is not None else None,
+                    "id": int(game.get("data-game_id")) if game.get("data-game_id") is not None else None,
+                    "desc": game.find(attrs={"class": "game_text"}).text if game.find(attrs={"class": "game_text"}) is not None else None,
+                    "author": game.find(attrs={"class": "game_author"}).string if game.find(attrs={"class": "game_author"}) is not None else None,
+                    "genre": [],
+                    "platform": ([(platform.get("title")[13:] if platform.has_attr("title") else "Browser") for platform in game.find(attrs={"class": "game_platform"}).findAll("span")] if game.find(attrs={"class": "game_platform"}) is not None else [])
+                }
+            )
+        # print(append)
+
+        insertSort(output, append)  # sort as chunk or individual?
+
+    with open(tag["tag"] + '.json', 'w') as outfile:
+        json.dump(output, outfile)
+
+# itch = []
+
+# for tag in urlByTag:
+#     with open(tag["tag"] + '.json', 'r') as infile:
+#         for game in json.load(infile):
+#             find = binSearch(itch, 0, len(itch)-1, game["id"])
+#             if(find != -1):
+#                 itch[find]["genre"].append(tag["tag"])
+#             else:
+#                 insertSort(itch, [game])
+
+# with open('itch.json', 'w') as outfile:
+#     json.dump(itch, outfile)
